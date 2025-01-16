@@ -1,6 +1,6 @@
 #=
 
-    Examples for Euler RK4 solver.
+    Examples for BDNK RK4 solver.
 
 =#
 
